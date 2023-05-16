@@ -31,11 +31,6 @@ public class Class_A_Test001 {
         objB.homeLoan();
         objB.BankDetails();
         objB.CarLoan();
-
-
-
-
-
     }
 
     // Create a simple method ...
